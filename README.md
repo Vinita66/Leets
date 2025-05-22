@@ -80,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vinita66/Leets/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Vinita66/Leets/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vinita66/Leets/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
