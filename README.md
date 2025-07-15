@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinita66/Leets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vinita66/Leets/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vinita66/Leets/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vinita66/Leets/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vinita66/Leets/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vinita66/Leets/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vinita66/Leets/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinita66/Leets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -82,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Vinita66/Leets/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vinita66/Leets/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vinita66/Leets/tree/master/0371-sum-of-two-integers) |
 ## Database
 |  |
