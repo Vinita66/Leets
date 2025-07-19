@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinita66/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinita66/Leets/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Vinita66/Leets/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vinita66/Leets/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinita66/Leets/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vinita66/Leets/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Vinita66/Leets/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vinita66/Leets/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
