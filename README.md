@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinita66/Leets/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinita66/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vinita66/Leets/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinita66/Leets/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vinita66/Leets/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vinita66/Leets/tree/master/0229-majority-element-ii) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinita66/Leets/tree/master/0215-kth-largest-element-in-an-array) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinita66/Leets/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vinita66/Leets/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vinita66/Leets/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
