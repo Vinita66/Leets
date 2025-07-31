@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vinita66/Leets/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vinita66/Leets/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vinita66/Leets/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
 ## Trie
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinita66/Leets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinita66/Leets/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
