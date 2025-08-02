@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinita66/Leets/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vinita66/Leets/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vinita66/Leets/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0240-search-a-2d-matrix-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vinita66/Leets/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
 ## Stack
