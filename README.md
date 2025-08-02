@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinita66/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinita66/Leets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinita66/Leets/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinita66/Leets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Vinita66/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinita66/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
 ## Simulation
