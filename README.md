@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 ## Sorting
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vinita66/Leets/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 ## Database
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vinita66/Leets/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vinita66/Leets/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
 ## Trie
 |  |
