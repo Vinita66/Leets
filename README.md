@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinita66/Leets/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/Vinita66/Leets/tree/master/0953-reverse-only-letters) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
+| [0953-reverse-only-letters](https://github.com/Vinita66/Leets/tree/master/0953-reverse-only-letters) |
 ## Trie
 |  |
 | ------- |
