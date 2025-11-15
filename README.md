@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vinita66/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinita66/Leets/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vinita66/Leets/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vinita66/Leets/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Vinita66/Leets/tree/master/0219-contains-duplicate-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vinita66/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinita66/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinita66/Leets/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Vinita66/Leets/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vinita66/Leets/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vinita66/Leets/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vinita66/Leets/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
