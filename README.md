@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vinita66/Leets/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Vinita66/Leets/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vinita66/Leets/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinita66/Leets/tree/master/0215-kth-largest-element-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vinita66/Leets/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/Vinita66/Leets/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinita66/Leets/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0240-search-a-2d-matrix-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vinita66/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinita66/Leets/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Vinita66/Leets/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Vinita66/Leets/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinita66/Leets/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Vinita66/Leets/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vinita66/Leets/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vinita66/Leets/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinita66/Leets/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vinita66/Leets/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinita66/Leets/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinita66/Leets/tree/master/0022-generate-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vinita66/Leets/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
