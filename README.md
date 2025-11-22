@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinita66/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vinita66/Leets/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinita66/Leets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vinita66/Leets/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vinita66/Leets/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinita66/Leets/tree/master/0209-minimum-size-subarray-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinita66/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinita66/Leets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vinita66/Leets/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinita66/Leets/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
