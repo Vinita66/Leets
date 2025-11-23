@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vinita66/Leets/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinita66/Leets/tree/master/0643-maximum-average-subarray-i) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 ## Sorting
@@ -90,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vinita66/Leets/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinita66/Leets/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinita66/Leets/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vinita66/Leets/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinita66/Leets/tree/master/0643-maximum-average-subarray-i) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 ## Queue
