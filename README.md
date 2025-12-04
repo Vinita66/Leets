@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinita66/Leets/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vinita66/Leets/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinita66/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0047-permutations-ii](https://github.com/Vinita66/Leets/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vinita66/Leets/tree/master/0054-spiral-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vinita66/Leets/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vinita66/Leets/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Vinita66/Leets/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Vinita66/Leets/tree/master/0147-insertion-sort-list) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vinita66/Leets/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/Vinita66/Leets/tree/master/0047-permutations-ii) |
 ## Merge Sort
 |  |
 | ------- |
