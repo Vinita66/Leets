@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vinita66/Leets/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinita66/Leets/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vinita66/Leets/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vinita66/Leets/tree/master/0485-max-consecutive-ones) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Vinita66/Leets/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Vinita66/Leets/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vinita66/Leets/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinita66/Leets/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinita66/Leets/tree/master/0713-subarray-product-less-than-k) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vinita66/Leets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinita66/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vinita66/Leets/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Vinita66/Leets/tree/master/0300-longest-increasing-subsequence) |
 ## Design
 |  |
 | ------- |
