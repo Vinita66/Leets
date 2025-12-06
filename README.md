@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinita66/Leets/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinita66/Leets/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Vinita66/Leets/tree/master/0953-reverse-only-letters) |
 ## Trie
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinita66/Leets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinita66/Leets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vinita66/Leets/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
 |  |
@@ -371,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vinita66/Leets/tree/master/0278-first-bad-version) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
