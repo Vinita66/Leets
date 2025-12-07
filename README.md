@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vinita66/Leets/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vinita66/Leets/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vinita66/Leets/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vinita66/Leets/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinita66/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vinita66/Leets/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Vinita66/Leets/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vinita66/Leets/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vinita66/Leets/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vinita66/Leets/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vinita66/Leets/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Vinita66/Leets/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
