@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Vinita66/Leets/tree/master/0907-koko-eating-bananas) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinita66/Leets/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vinita66/Leets/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vinita66/Leets/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting
 |  |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vinita66/Leets/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
