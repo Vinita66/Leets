@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vinita66/Leets/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vinita66/Leets/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vinita66/Leets/tree/master/0371-sum-of-two-integers) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vinita66/Leets/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vinita66/Leets/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vinita66/Leets/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinita66/Leets/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Vinita66/Leets/tree/master/0152-maximum-product-subarray) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vinita66/Leets/tree/master/0509-fibonacci-number) |
 ## Bucket Sort
 |  |
