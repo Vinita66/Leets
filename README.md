@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vinita66/Leets/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Vinita66/Leets/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vinita66/Leets/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vinita66/Leets/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vinita66/Leets/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vinita66/Leets/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Vinita66/Leets/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Vinita66/Leets/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Vinita66/Leets/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vinita66/Leets/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Vinita66/Leets/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Vinita66/Leets/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Vinita66/Leets/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
