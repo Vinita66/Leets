@@ -7,14 +7,15 @@ class MyHashMap {
         Node(int k, int v) { key = k; value = v; }
     }
 
+    private static final int SIZE = 10000; 
     private LinkedList<Node>[] map;
 
     public MyHashMap() {
-        map = new LinkedList[1000];
+        map = new LinkedList[SIZE];
     }
     
     public void put(int key, int value) {
-        int i = key % 1000;
+        int i = key % SIZE;
         if (map[i] == null) map[i] = new LinkedList<>();
 
         for (Node n : map[i]) {
@@ -27,7 +28,7 @@ class MyHashMap {
     }
     
     public int get(int key) {
-        int i = key % 1000;
+        int i = key % SIZE;
         if (map[i] == null) return -1;
 
         for (Node n : map[i])
@@ -37,7 +38,7 @@ class MyHashMap {
     }
     
     public void remove(int key) {
-        int i = key % 1000;
+        int i = key % SIZE;
         if (map[i] == null) return;
 
         map[i].removeIf(n -> n.key == key);
