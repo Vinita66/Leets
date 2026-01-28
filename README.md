@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Vinita66/Leets/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Vinita66/Leets/tree/master/0953-reverse-only-letters) |
+| [1092-shortest-common-supersequence](https://github.com/Vinita66/Leets/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vinita66/Leets/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Vinita66/Leets/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Vinita66/Leets/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinita66/Leets/tree/master/0516-longest-palindromic-subsequence) |
+| [1092-shortest-common-supersequence](https://github.com/Vinita66/Leets/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vinita66/Leets/tree/master/1143-longest-common-subsequence) |
 ## Design
 |  |
