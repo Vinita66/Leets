@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinita66/Leets/tree/master/1480-running-sum-of-1d-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vinita66/Leets/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1672-richest-customer-wealth](https://github.com/Vinita66/Leets/tree/master/1672-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinita66/Leets/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vinita66/Leets/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Vinita66/Leets/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
