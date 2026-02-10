@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinita66/Leets/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Vinita66/Leets/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinita66/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vinita66/Leets/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vinita66/Leets/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Vinita66/Leets/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinita66/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Vinita66/Leets/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vinita66/Leets/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vinita66/Leets/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinita66/Leets/tree/master/0209-minimum-size-subarray-sum) |
