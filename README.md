@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vinita66/Leets/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vinita66/Leets/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vinita66/Leets/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Vinita66/Leets/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vinita66/Leets/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinita66/Leets/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinita66/Leets/tree/master/0215-kth-largest-element-in-an-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vinita66/Leets/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vinita66/Leets/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinita66/Leets/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Vinita66/Leets/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vinita66/Leets/tree/master/0283-move-zeroes) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vinita66/Leets/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vinita66/Leets/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Vinita66/Leets/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Vinita66/Leets/tree/master/0371-sum-of-two-integers) |
