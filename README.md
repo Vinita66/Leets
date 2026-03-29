@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Vinita66/Leets/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vinita66/Leets/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinita66/Leets/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinita66/Leets/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Trie
 |  |
 | ------- |
