@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vinita66/Leets/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vinita66/Leets/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Vinita66/Leets/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Vinita66/Leets/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Vinita66/Leets/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vinita66/Leets/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinita66/Leets/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinita66/Leets/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vinita66/Leets/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Vinita66/Leets/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vinita66/Leets/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vinita66/Leets/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vinita66/Leets/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vinita66/Leets/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vinita66/Leets/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vinita66/Leets/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vinita66/Leets/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Vinita66/Leets/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0070-climbing-stairs) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinita66/Leets/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Vinita66/Leets/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinita66/Leets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinita66/Leets/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vinita66/Leets/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vinita66/Leets/tree/master/0496-next-greater-element-i) |
 ## Memoization
