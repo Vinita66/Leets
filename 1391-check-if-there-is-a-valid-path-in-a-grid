@@ -1,0 +1,21 @@
+import java.util.*;
+
+class Solution {
+    public boolean hasValidPath(int[][] g) {
+        int m = g.length, n = g[0].length;
+        boolean[][] v = new boolean[m][n];
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{0,0}); v[0][0] = true;
+
+        while (!q.isEmpty()) {
+            int[] c = q.poll(); int i = c[0], j = c[1], t = g[i][j];
+            if (i == m-1 && j == n-1) return true;
+
+            if ((t==2||t==5||t==6) && i>0 && !v[i-1][j] && (g[i-1][j]==2||g[i-1][j]==3||g[i-1][j]==4)) { q.offer(new int[]{i-1,j}); v[i-1][j]=true; }
+            if ((t==2||t==3||t==4) && i<m-1 && !v[i+1][j] && (g[i+1][j]==2||g[i+1][j]==5||g[i+1][j]==6)) { q.offer(new int[]{i+1,j}); v[i+1][j]=true; }
+            if ((t==1||t==3||t==5) && j>0 && !v[i][j-1] && (g[i][j-1]==1||g[i][j-1]==4||g[i][j-1]==6)) { q.offer(new int[]{i,j-1}); v[i][j-1]=true; }
+            if ((t==1||t==4||t==6) && j<n-1 && !v[i][j+1] && (g[i][j+1]==1||g[i][j+1]==3||g[i][j+1]==5)) { q.offer(new int[]{i,j+1}); v[i][j+1]=true; }
+        }
+        return false;
+    }
+}
