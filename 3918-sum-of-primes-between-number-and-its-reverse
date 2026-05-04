@@ -1,0 +1,37 @@
+class Solution {
+    public int sumOfPrimesInRange(int n) {
+        int original = n;
+
+        int r = 0, temp = original;
+        while (temp > 0) {
+            r = r * 10 + temp % 10;
+            temp /= 10;
+        }
+
+        int low = Math.min(original, r);
+        int high = Math.max(original, r);
+
+        boolean[] isPrime = new boolean[high + 1];
+
+        for (int i = 2; i <= high; i++) {
+            isPrime[i] = true;
+        }
+
+        for (int i = 2; i * i <= high; i++) {
+            if (isPrime[i]) {
+                for (int j = i * i; j <= high; j += i) {
+                    isPrime[j] = false;
+                }
+            }
+        }
+
+        int sum = 0;
+        for (int i = low; i <= high; i++) {
+            if (isPrime[i]) {
+                sum += i;
+            }
+        }
+
+        return sum;
+    }
+}
