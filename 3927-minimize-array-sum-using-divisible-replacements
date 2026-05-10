@@ -1,0 +1,41 @@
+class Solution {
+    public long minArraySum(int[] nums) {
+
+        int[] arr = nums;
+
+        int max = 0;
+
+        for (int num : nums) {
+            max = Math.max(max, num);
+        }
+
+        boolean[] present = new boolean[max + 1];
+
+        for (int num : nums) {
+            present[num] = true;
+        }
+
+        int[] smallest = new int[max + 1];
+
+        for (int i = 1; i <= max; i++) {
+
+            if (present[i]) {
+
+                for (int j = i; j <= max; j += i) {
+
+                    if (smallest[j] == 0) {
+                        smallest[j] = i;
+                    }
+                }
+            }
+        }
+
+        long sum = 0;
+
+        for (int num : nums) {
+            sum += smallest[num];
+        }
+
+        return sum;
+    }
+}
