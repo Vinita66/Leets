@@ -1,0 +1,66 @@
+class Solution {
+    public int[] countWordOccurrences(String[] chunks, String[] queries) {
+
+        StringBuilder sb = new StringBuilder();
+
+        for (String str : chunks) {
+            sb.append(str);
+        }
+
+        String s = sb.toString();
+
+        HashMap<String, Integer> freq = new HashMap<>();
+
+        int i = 0;
+
+        while (i < s.length()) {
+
+            while (i < s.length() &&
+                  !Character.isLowerCase(s.charAt(i))) {
+                i++;
+            }
+
+            int start = i;
+
+            while (i < s.length()) {
+
+                char ch = s.charAt(i);
+
+                if (Character.isLowerCase(ch)) {
+                    i++;
+                }
+                else if (ch == '-') {
+
+                    if (i > start &&
+                        i + 1 < s.length() &&
+                        Character.isLowerCase(s.charAt(i - 1)) &&
+                        Character.isLowerCase(s.charAt(i + 1))) {
+
+                        i++;
+                    } 
+                    else {
+                        break;
+                    }
+                }
+                else {
+                    break;
+                }
+            }
+
+            if (start < i) {
+                String word = s.substring(start, i);
+                freq.put(word, freq.getOrDefault(word, 0) + 1);
+            }
+
+            i++;
+        }
+
+        int[] ans = new int[queries.length];
+
+        for (int j = 0; j < queries.length; j++) {
+            ans[j] = freq.getOrDefault(queries[j], 0);
+        }
+
+        return ans;
+    }
+}
