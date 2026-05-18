@@ -1,0 +1,51 @@
+class Solution {
+    public int countLocalMaximums(int[][] matrix) {
+
+        int[][] arr = matrix;
+
+        int n = matrix.length, m = matrix[0].length;
+        int ans = 0;
+        List<int[]>[] pos = new ArrayList[201];
+
+        for (int i = 0; i <= 200; i++) {
+            pos[i] = new ArrayList<>();
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                pos[matrix[i][j]].add(new int[]{i, j});
+            }
+        }
+
+        for (int val = 1; val <= 200; val++) {
+
+            for (int[] p : pos[val]) {
+
+                int i = p[0], j = p[1];
+                boolean ok = true;
+
+                // check only greater values
+                for (int bigger = val + 1; bigger <= 200 && ok; bigger++) {
+
+                    for (int[] q : pos[bigger]) {
+
+                        int r = q[0], c = q[1];
+
+                        if (Math.abs(r - i) <= val &&
+                            Math.abs(c - j) <= val &&
+                            !(Math.abs(r - i) == val &&
+                              Math.abs(c - j) == val)) {
+
+                            ok = false;
+                            break;
+                        }
+                    }
+                }
+
+                if (ok) ans++;
+            }
+        }
+
+        return ans;
+    }
+}
