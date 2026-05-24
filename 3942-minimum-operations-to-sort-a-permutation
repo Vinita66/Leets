@@ -1,0 +1,54 @@
+public class Solution {
+    public int minOperations(int[] nums) {
+        int[] arr = nums;
+        int n = arr.length;
+        
+        if (n <= 1) {
+            return 0;
+        }
+        
+        int idxZero = -1;
+        for (int i = 0; i < n; i++) {
+            if (arr[i] == 0) {
+                idxZero = i;
+                break;
+            }
+        }
+        
+        boolean isRotation = true;
+        for (int i = 0; i < n; i++) {
+            if (arr[(idxZero + i) % n] != i) {
+                isRotation = false;
+                break;
+            }
+        }
+        
+        boolean isRevRotation = true;
+        for (int i = 0; i < n; i++) {
+            if (arr[(idxZero - i + n) % n] != i) {
+                isRevRotation = false;
+                break;
+            }
+        }
+        
+        if (!isRotation && !isRevRotation) {
+            return -1;
+        }
+        
+        int minOps = Integer.MAX_VALUE;
+        
+        if (isRotation) {
+            minOps = Math.min(minOps, idxZero);
+            if (idxZero != 0) {
+                minOps = Math.min(minOps, 2 + (n - idxZero) % n);
+            }
+        }
+        
+        if (isRevRotation) {
+            minOps = Math.min(minOps, 1 + (n - 1 - idxZero));
+            minOps = Math.min(minOps, idxZero + 2);
+        }
+        
+        return minOps;
+    }
+}
