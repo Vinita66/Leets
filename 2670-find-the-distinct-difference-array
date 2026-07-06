@@ -1,0 +1,31 @@
+class Solution {
+    public int[] distinctDifferenceArray(int[] nums) {
+        int n = nums.length;
+        int[] suffix = new int[n];
+        int[] ans = new int[n];
+
+        HashSet<Integer> set = new HashSet<>();
+
+        
+        for (int i = n - 1; i >= 0; i--) {
+            set.add(nums[i]);
+            suffix[i] = set.size();
+        }      
+        set.clear();
+        for (int i = 0; i < n; i++) {
+            set.add(nums[i]);
+
+            int prefixCount = set.size();
+            int suffixCount;
+
+            if (i == n - 1) {
+                suffixCount = 0;
+            } else {
+                suffixCount = suffix[i + 1];
+            }
+
+            ans[i] = prefixCount - suffixCount;
+        }
+        return ans;
+    }
+}
