@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Vinita66/Leets/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinita66/Leets/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vinita66/Leets/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0746-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/Vinita66/Leets/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vinita66/Leets/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Vinita66/Leets/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinita66/Leets/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/Vinita66/Leets/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Vinita66/Leets/tree/master/1143-longest-common-subsequence) |
 ## Design
