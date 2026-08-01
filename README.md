@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Vinita66/Leets/tree/master/0907-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vinita66/Leets/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vinita66/Leets/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vinita66/Leets/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vinita66/Leets/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinita66/Leets/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinita66/Leets/tree/master/0713-subarray-product-less-than-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vinita66/Leets/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinita66/Leets/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 ## Queue
