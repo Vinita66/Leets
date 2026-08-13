@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Vinita66/Leets/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vinita66/Leets/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0511-game-play-analysis-i](https://github.com/Vinita66/Leets/tree/master/0511-game-play-analysis-i) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vinita66/Leets/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Vinita66/Leets/tree/master/0596-classes-with-at-least-5-students) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinita66/Leets/tree/master/1908-recyclable-and-low-fat-products) |
 ## String
