@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vinita66/Leets/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vinita66/Leets/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/Vinita66/Leets/tree/master/0748-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/Vinita66/Leets/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Vinita66/Leets/tree/master/0877-stone-game) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vinita66/Leets/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/Vinita66/Leets/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/Vinita66/Leets/tree/master/0748-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/Vinita66/Leets/tree/master/0874-walking-robot-simulation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Vinita66/Leets/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Vinita66/Leets/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Vinita66/Leets/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/Vinita66/Leets/tree/master/0748-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Vinita66/Leets/tree/master/0844-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Vinita66/Leets/tree/master/0953-reverse-only-letters) |
