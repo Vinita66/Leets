@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vinita66/Leets/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Vinita66/Leets/tree/master/0303-range-sum-query-immutable) |
 | [0706-design-hashmap](https://github.com/Vinita66/Leets/tree/master/0706-design-hashmap) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinita66/Leets/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vinita66/Leets/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vinita66/Leets/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Vinita66/Leets/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Vinita66/Leets/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vinita66/Leets/tree/master/0496-next-greater-element-i) |
