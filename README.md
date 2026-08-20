@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vinita66/Leets/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vinita66/Leets/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Vinita66/Leets/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Vinita66/Leets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinita66/Leets/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
