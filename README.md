@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vinita66/Leets/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vinita66/Leets/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Vinita66/Leets/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vinita66/Leets/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vinita66/Leets/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Vinita66/Leets/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vinita66/Leets/tree/master/0326-power-of-three) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vinita66/Leets/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vinita66/Leets/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Vinita66/Leets/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vinita66/Leets/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Vinita66/Leets/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Vinita66/Leets/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Vinita66/Leets/tree/master/0844-backspace-string-compare) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vinita66/Leets/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Vinita66/Leets/tree/master/0866-prime-palindrome) |
 ## Primality Test
 |  |
