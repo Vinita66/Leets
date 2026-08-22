@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Vinita66/Leets/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vinita66/Leets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinita66/Leets/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vinita66/Leets/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
