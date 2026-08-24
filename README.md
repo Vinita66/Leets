@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Vinita66/Leets/tree/master/0874-walking-robot-simulation) |
 | [1207-unique-number-of-occurrences](https://github.com/Vinita66/Leets/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Vinita66/Leets/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vinita66/Leets/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/Vinita66/Leets/tree/master/1748-sum-of-unique-elements) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Vinita66/Leets/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinita66/Leets/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinita66/Leets/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/Vinita66/Leets/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinita66/Leets/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinita66/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
