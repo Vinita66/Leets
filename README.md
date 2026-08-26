@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vinita66/Leets/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Vinita66/Leets/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Vinita66/Leets/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Vinita66/Leets/tree/master/0907-koko-eating-bananas) |
 | [1089-duplicate-zeros](https://github.com/Vinita66/Leets/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Vinita66/Leets/tree/master/1207-unique-number-of-occurrences) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinita66/Leets/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Vinita66/Leets/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Vinita66/Leets/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinita66/Leets/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vinita66/Leets/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinita66/Leets/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Vinita66/Leets/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Vinita66/Leets/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/Vinita66/Leets/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Vinita66/Leets/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Vinita66/Leets/tree/master/0953-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/Vinita66/Leets/tree/master/1089-duplicate-zeros) |
