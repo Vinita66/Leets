@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinita66/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinita66/Leets/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3819-rotate-non-negative-elements](https://github.com/Vinita66/Leets/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Vinita66/Leets/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vinita66/Leets/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3819-rotate-non-negative-elements](https://github.com/Vinita66/Leets/tree/master/3819-rotate-non-negative-elements) |
 ## Stack
 |  |
 | ------- |
