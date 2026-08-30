@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Vinita66/Leets/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vinita66/Leets/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinita66/Leets/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinita66/Leets/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinita66/Leets/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vinita66/Leets/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vinita66/Leets/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
