@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/Vinita66/Leets/tree/master/2027-minimum-moves-to-convert-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinita66/Leets/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3340-check-balanced-string](https://github.com/Vinita66/Leets/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinita66/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
