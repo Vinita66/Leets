@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vinita66/Leets/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vinita66/Leets/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Vinita66/Leets/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vinita66/Leets/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vinita66/Leets/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinita66/Leets/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vinita66/Leets/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinita66/Leets/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Vinita66/Leets/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Vinita66/Leets/tree/master/2027-minimum-moves-to-convert-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vinita66/Leets/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinita66/Leets/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Vinita66/Leets/tree/master/3340-check-balanced-string) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinita66/Leets/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Vinita66/Leets/tree/master/1652-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Vinita66/Leets/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
