@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinita66/Leets/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vinita66/Leets/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vinita66/Leets/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinita66/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinita66/Leets/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3819-rotate-non-negative-elements](https://github.com/Vinita66/Leets/tree/master/3819-rotate-non-negative-elements) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vinita66/Leets/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinita66/Leets/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Vinita66/Leets/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vinita66/Leets/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinita66/Leets/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
