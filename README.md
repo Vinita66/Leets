@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vinita66/Leets/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vinita66/Leets/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Vinita66/Leets/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
 | ------- |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3340-check-balanced-string](https://github.com/Vinita66/Leets/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinita66/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Vinita66/Leets/tree/master/3884-first-matching-character-from-both-ends) |
 ## Trie
 |  |
 | ------- |
