@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vinita66/Leets/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Vinita66/Leets/tree/master/0596-classes-with-at-least-5-students) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinita66/Leets/tree/master/1908-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Vinita66/Leets/tree/master/1978-employees-whose-manager-left-the-company) |
 ## String
 |  |
 | ------- |
