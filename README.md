@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vinita66/Leets/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinita66/Leets/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Vinita66/Leets/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Vinita66/Leets/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Vinita66/Leets/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/Vinita66/Leets/tree/master/0748-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/Vinita66/Leets/tree/master/0812-rotate-string) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Vinita66/Leets/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Vinita66/Leets/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vinita66/Leets/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Vinita66/Leets/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vinita66/Leets/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Vinita66/Leets/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Vinita66/Leets/tree/master/0877-stone-game) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vinita66/Leets/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinita66/Leets/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Vinita66/Leets/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Vinita66/Leets/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinita66/Leets/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinita66/Leets/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Vinita66/Leets/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Vinita66/Leets/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Vinita66/Leets/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Vinita66/Leets/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Vinita66/Leets/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vinita66/Leets/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinita66/Leets/tree/master/1903-largest-odd-number-in-string) |
@@ -766,4 +770,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vinita66/Leets/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Vinita66/Leets/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
