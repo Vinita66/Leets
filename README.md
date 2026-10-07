@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vinita66/Leets/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Vinita66/Leets/tree/master/0881-boats-to-save-people) |
 | [0898-transpose-matrix](https://github.com/Vinita66/Leets/tree/master/0898-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Vinita66/Leets/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Vinita66/Leets/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Vinita66/Leets/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinita66/Leets/tree/master/1004-max-consecutive-ones-iii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/Vinita66/Leets/tree/master/0748-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/Vinita66/Leets/tree/master/0816-design-hashset) |
 | [0874-walking-robot-simulation](https://github.com/Vinita66/Leets/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/Vinita66/Leets/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Vinita66/Leets/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinita66/Leets/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Vinita66/Leets/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vinita66/Leets/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinita66/Leets/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vinita66/Leets/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/Vinita66/Leets/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinita66/Leets/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vinita66/Leets/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vinita66/Leets/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
