@@ -781,4 +781,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Vinita66/Leets/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinita66/Leets/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vinita66/Leets/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
