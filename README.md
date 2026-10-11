@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Vinita66/Leets/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinita66/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinita66/Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinita66/Leets/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3819-rotate-non-negative-elements](https://github.com/Vinita66/Leets/tree/master/3819-rotate-non-negative-elements) |
 | [3866-first-unique-even-element](https://github.com/Vinita66/Leets/tree/master/3866-first-unique-even-element) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Vinita66/Leets/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vinita66/Leets/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vinita66/Leets/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinita66/Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinita66/Leets/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vinita66/Leets/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Vinita66/Leets/tree/master/3870-count-commas-in-range) |
