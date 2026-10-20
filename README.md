@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinita66/Leets/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Vinita66/Leets/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/Vinita66/Leets/tree/master/1763-longest-nice-substring) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Vinita66/Leets/tree/master/1796-second-largest-digit-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/Vinita66/Leets/tree/master/1813-maximum-erasure-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinita66/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Vinita66/Leets/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinita66/Leets/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/Vinita66/Leets/tree/master/1763-longest-nice-substring) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Vinita66/Leets/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Vinita66/Leets/tree/master/1903-largest-odd-number-in-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Vinita66/Leets/tree/master/2027-minimum-moves-to-convert-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vinita66/Leets/tree/master/2269-find-the-k-beauty-of-a-number) |
