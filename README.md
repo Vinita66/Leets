@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinita66/Leets/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinita66/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Vinita66/Leets/tree/master/3146-permutation-difference-between-two-strings) |
 | [3866-first-unique-even-element](https://github.com/Vinita66/Leets/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Vinita66/Leets/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vinita66/Leets/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Vinita66/Leets/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/Vinita66/Leets/tree/master/3340-check-balanced-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinita66/Leets/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Vinita66/Leets/tree/master/3884-first-matching-character-from-both-ends) |
