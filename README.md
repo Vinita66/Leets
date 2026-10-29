@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vinita66/Leets/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vinita66/Leets/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3819-rotate-non-negative-elements](https://github.com/Vinita66/Leets/tree/master/3819-rotate-non-negative-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Vinita66/Leets/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vinita66/Leets/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinita66/Leets/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinita66/Leets/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Vinita66/Leets/tree/master/3146-permutation-difference-between-two-strings) |
+| [3843-first-element-with-unique-frequency](https://github.com/Vinita66/Leets/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vinita66/Leets/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vinita66/Leets/tree/master/0594-longest-harmonious-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vinita66/Leets/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Vinita66/Leets/tree/master/1748-sum-of-unique-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Vinita66/Leets/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Vinita66/Leets/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
